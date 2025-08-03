@@ -1,0 +1,56 @@
+----------------------------------------------------------------------
+SIF360 – India’s First Platform to Discover & Track Structured Investment Funds (SIFs)
+----------------------------------------------------------------------
+
+🔒 This document serves as official proof that the concept, brand, content, and initial implementation
+of the SIF360 platform existed as of the dates mentioned below.
+
+----------------------------------------------------------------------
+
+👤 Founder & Creator:
+Sandeep Seth  
+Email : sandeep.seth@sif360.com
+Location: India  
+
+👨‍💻 Developed By:
+SIF360 Team
+Email : info@sif360.com
+Location: India  
+
+----------------------------------------------------------------------
+
+🌐 Project Details:
+
+• Website: https://sif360.com  
+• GitHub Repository: https://github.com/infosif360/SIF360
+• Domain Purchased: July 17, 2025 (GoDaddy)  
+• GitHub Repo Created: July 29, 2025  
+• Initial MVP Code Freeze: August 4, 2025  
+• Official Public Launch: August 15, 2025  
+• Tech Stack: Next.js, Supabase, TailwindCSS, Vercel, TypeScript  
+• Deployed On: Vercel  
+• Hosted Under: https://sif360.com  
+
+----------------------------------------------------------------------
+
+📜 Purpose of This Document:
+
+This document is being cryptographically time-stamped using OpenTimestamps and publicly committed 
+to GitHub in order to:
+
+• Establish irrefutable proof of authorship and existence prior to public launch  
+• Prevent future disputes regarding originality, date of creation, or ownership  
+• Serve as legal-grade backup in case of intellectual property or launch date challenges  
+
+----------------------------------------------------------------------
+
+🕒 Document Created On: August 4, 2025  
+🌐 Blockchain Timestamp Will Be Generated Via: https://opentimestamps.org  
+
+----------------------------------------------------------------------
+
+Signatures:
+
+Sandeep Seth  
+(Founder, SIF360)
+
