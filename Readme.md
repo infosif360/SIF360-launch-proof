@@ -8,8 +8,8 @@ This repository contains verifiable proof that SIF360 was publicly launched on *
 
 ## 🔒 Blockchain Timestamp Proof (Bitcoin via OpenTimestamps)
 
-- [`launch-proof.txt`](./proof/launch-proof.txt): Human-readable launch declaration.
-- [`launch-proof.txt.ots`](./proof/launch-proof.txt.ots): Immutable proof file anchored to the Bitcoin blockchain.
+- [`launch-proof.txt`](./launch-proof.txt): Human-readable launch declaration.
+- [`launch-proof.txt.ots`](./launch-proof.txt.ots): Immutable proof file anchored to the Bitcoin blockchain.
 - ⏱️ **Verify at:** [https://verify.opentimestamps.org](https://verify.opentimestamps.org)
 
 > The `.ots` file cryptographically proves that the content existed as of the timestamp.
@@ -21,13 +21,6 @@ This repository contains verifiable proof that SIF360 was publicly launched on *
 - 📸 Screenshot of our live footer: [`footer-launch-date.png`](./screenshots/footer-launch-date.png)
 - ✅ Footer mentions: `Launched on August 15, 2025`
 - 🧠 This message is deployed and served via Vercel CDN to ensure timestamp traceability.
-
----
-
-## 🧾 Optional Archive Snapshot
-
-- 🌍 [Web Archive Snapshot (Wayback Machine)](https://web.archive.org/web/*/https://www.sif360.com)
-- This snapshot serves as additional time-based proof of public availability.
 
 ---
 
