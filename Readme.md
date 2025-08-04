@@ -18,7 +18,7 @@ This repository contains verifiable proof that SIF360 was publicly launched on *
 
 ## 🕒 Live Website Footer Timestamp
 
-- 📸 Screenshot of our live footer: [`footer-launch-date.png`](./screenshots/footer-launch-date.png)
+- 📸 Screenshot of our live footer: [`footer-launch-date.png`](./footer-launch-proof-screenshot.jpg)
 - ✅ Footer mentions: `Launched on August 15, 2025`
 - 🧠 This message is deployed and served via Vercel CDN to ensure timestamp traceability.
 
