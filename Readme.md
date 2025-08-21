@@ -1,8 +1,8 @@
 # 🚀 SIF360 Launch Proof Repository
 
-Welcome to the official launch proof for [SIF360.com](https://www.sif360.com) — India’s First Platform to Discover & Track Structured Investment Funds (SIFs).
+Welcome to the official launch proof for [SIF360.com](https://www.sif360.com) — India’s First Platform to Discover & Track Specialized Investment Funds (SIFs).
 
-This repository contains verifiable proof that SIF360 was publicly launched on **August 15, 2025**, using a combination of cryptographic, public, and visual timestamp methods.
+This repository contains verifiable proof that SIF360 was publicly launched on **August 21, 2025**, using a combination of cryptographic, public, and visual timestamp methods.
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains verifiable proof that SIF360 was publicly launched on *
 ## 🕒 Live Website Footer Timestamp
 
 - 📸 Screenshot of our live footer: [`footer-launch-date.png`](./footer-launch-proof.jpg)
-- ✅ Footer mentions: `Launched on August 11, 2025`
+- ✅ Footer mentions: `Launched on August 21, 2025`
 - 🧠 This message is deployed and served via Vercel CDN to ensure timestamp traceability.
 
 ---
@@ -33,6 +33,6 @@ This repository was created solely to maintain a transparent, verifiable record 
 
 ---
 
-**Issued By:** Team SIF360  
-**Date of Launch:** August 11, 2025  
+**Issued By:** Team SIF360
+**Date of Launch:** August 21, 2025  
 **Website:** [https://www.sif360.com](https://www.sif360.com)
